@@ -1,6 +1,6 @@
 # Multi-Agent AI Code Review Agent
 
-A production-ready GitHub pull request review service that orchestrates multiple specialized AI agents with LangGraph:
+A production ready GitHub pull request review service that orchestrates multiple specialized AI agents with LangGraph:
 
 - `Security Agent` reviews diffs only for security issues.
 - `Refactor Agent` reviews diffs only for code quality and maintainability issues.
